@@ -21,7 +21,7 @@
   	 	include ('../lib20/hgo/header.html');
   	?>
     <!-- Slider principal -->
-    <?php include ('./dotk/01header/01carousel-principal/carousel.html'); ?>
+    <?php //include ('./dotk/01header/01carousel-principal/carousel.html'); ?>
   </header>
 
   <?php include ('./dotk/01header/02begajoso/menu-pegajoso.html'); ?>
